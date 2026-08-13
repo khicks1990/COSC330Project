@@ -81,7 +81,7 @@ Create at least three classes.
 - Student
 - Course
 
-## 6. Inheritance (7 pts)
+## 6. Inheritance (8 pts)
 
 Implement an inheritance hierarchy.
 
@@ -185,7 +185,7 @@ catch (...)
 
 At least three unique exception scenarios must be handled.
 
-## 12. Project Complexity and Overall Design (10 pts)
+## 12. Project Complexity and Overall Design (14 pts)
 
 The project should demonstrate a thoughtful design and meaningful integration of course concepts.
 
