@@ -222,4 +222,4 @@ Requirements:
 
 Enter the given commands in the terminal at the bottom of the codespace to run the code.
 
-- **C++**: Compile with `g++ hello.cpp -o hello` and run with `./hello`.
+- **C++**: Compile with `g++ project.cpp -o project` and run with `./project`.
